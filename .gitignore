@@ -5,6 +5,7 @@ __pycache__
 *gz
 *avi
 *swp
+*.DS_Store
 data/logs/*
 data/checkpoints/*
 data/sequences/*
